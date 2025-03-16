@@ -23,7 +23,7 @@
 ---
 
 ## 📦 各版本修仙
-- 修仙1.0:[访问GitHub](https://github.com/s52047qwas/nonebot_plugin_xiuxian)
+- 修仙1.0:[访问](https://github.com/s52047qwas/nonebot_plugin_xiuxian)
 - 修仙2.0:[访问](https://github.com/QingMuCat/nonebot_plugin_xiuxian_2)
 - 修仙2.2魔改:[访问](https://github.com/MyXiaoNan/nonebot_plugin_xiuxian_2_pmv)
 - 修仙3.0:[访问](https://github.com/MyXiaoNan/Marisa)
