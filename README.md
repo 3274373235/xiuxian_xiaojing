@@ -60,3 +60,4 @@ pip install -r requirements.txt
 > 🌟 **特别致谢**  
 > - xiuxian1.0/2.0/2.2原项目开发者  
 > - 所有参与测试的修仙道友们
+> - 小靖官方公测群聊:[763401824](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=muBvLtOrQ1xM3uH03fEOZBIk2DF1VS6V&authKey=ccGAZ5cgtGLml%2BBnwloae75vS%2Fi59bMMAKzhv18mAq3qxfaOOqgclwftZLjl6Kxy&noverify=0&group_code=763401824)
