@@ -61,9 +61,8 @@ pip install -r requirements.txt
 > - xiuxian1.0/2.0/2.2原项目开发者  
 > - 所有参与测试的修仙道友们
 > - 小靖官方公测群聊:[763401824](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=muBvLtOrQ1xM3uH03fEOZBIk2DF1VS6V&authKey=ccGAZ5cgtGLml%2BBnwloae75vS%2Fi59bMMAKzhv18mAq3qxfaOOqgclwftZLjl6Kxy&noverify=0&group_code=763401824)
+> - 
 目前小靖服务器已关闭
 [![xj1.jpg](https://i.postimg.cc/L8Hnj9H7/Screenshot-2025-03-17-13-34-08-051-com-tencent-mobileqq.jpg)](https://postimg.cc/Tp4d6X5q)
-
 [![xj2.jpg](https://i.postimg.cc/mDnp24bW/Screenshot-2025-03-17-13-33-37-949-com-tencent-mobileqq.jpg)](https://postimg.cc/cgQBXVgF)
-
 [![xj3.jpg](https://i.postimg.cc/Zny7WQRB/Screenshot-2025-03-17-13-34-14-763-com-tencent-mobileqq.jpg)](https://postimg.cc/H8d4KBbd)
